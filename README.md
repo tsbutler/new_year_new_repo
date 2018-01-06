@@ -8,3 +8,5 @@ So far this is just me practicing my vim skills.  I know this is a BS commit, bu
 Okay, so yet again, this is a BS entry.  I'm still trying to find a project.  Maybe I can start writing them here.  Nah.  I just need to pick something.  Well, the habit of being here is forming at least.
 
 No project just yet, but the habit is still intact.  I'm thinking of trying to get started with a utility or a game a month.  We'll see.
+
+Alright, so this still isn't turning into a project, but my thought is this, maybe I can use this to track tech reading too, so I'm not always chained to generating some BS bit of code.  Anyhow, thought.
