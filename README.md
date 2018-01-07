@@ -10,3 +10,7 @@ Okay, so yet again, this is a BS entry.  I'm still trying to find a project.  Ma
 No project just yet, but the habit is still intact.  I'm thinking of trying to get started with a utility or a game a month.  We'll see.
 
 Alright, so this still isn't turning into a project, but my thought is this, maybe I can use this to track tech reading too, so I'm not always chained to generating some BS bit of code.  Anyhow, thought.
+
+Well, again, not turning into a project, but as the last line indicates, I'm heading in a direction now.  Just need to start doing it.  Updating this is on its way to becoming a habit.  Now to do
+something with that habit.  Yeesh.
+
