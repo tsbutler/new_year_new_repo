@@ -14,3 +14,4 @@ Alright, so this still isn't turning into a project, but my thought is this, may
 Well, again, not turning into a project, but as the last line indicates, I'm heading in a direction now.  Just need to start doing it.  Updating this is on its way to becoming a habit.  Now to do
 something with that habit.  Yeesh.
 
+Okay, so still no projects have materialized.  However, I've gotten a bit better at sorting out what I plan to do with this random file.  Ever onward.
